@@ -1,13 +1,11 @@
-### Hi there 👋
-
-I am python developer from Saint-Petersburg.
-
+Hi there
+`
 I'm currently working on TripleTen.
 
-If you're inetersted in my CV, visit seroburomalinoviy.github.io
+If you're inetersted in my CV, visit <seroburomalinoviy.github.io>
 
 Ivan
-
+`
 <!--
 **seroburomalinoviy/seroburomalinoviy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
