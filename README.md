@@ -1,8 +1,8 @@
-Hi there
+Hi there!
 
 I'm currently working on TripleTen.
 
-If you're interested in seeing my CV, please visit my [site](seroburomalinoviy.github.io).
+If you're interested in seeing my CV, please visit my [site](https://seroburomalinoviy.github.io).
 
 Ivan
 
