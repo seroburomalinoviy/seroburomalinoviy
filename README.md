@@ -2,7 +2,7 @@ Hi there
 
 I'm currently working on TripleTen.
 
-If you're inetersted in my CV, visit (seroburomalinoviy.github.io)
+If you're interested in seeing my CV, please visit my [site](seroburomalinoviy.github.io).
 
 Ivan
 
