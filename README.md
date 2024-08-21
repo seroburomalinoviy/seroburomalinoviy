@@ -2,7 +2,7 @@ Hi there!
 
 <!-- I am currently employed by  [TripleTen](https://tripleten.com), where I work in the area of EdTech. -->
 
-If you're interested in seeing my CV, please visit my [site](https://seroburomalinoviy.github.io).
+If you're interested in seeing my CV you can find it [here](https://seroburomalinoviy.github.io).
 
 Ivan
 
